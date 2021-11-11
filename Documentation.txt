@@ -1,0 +1,28 @@
+Different modes:
+General Mode: Esc
+Rectangle mode: r
+Circle Mode: c
+Brush Mode: b
+Eraser mode e:
+Delete: d
+
+
+Colors:
+Black: 1
+White: 2
+Red: 3
+Green: 4
+Blue: 5
+Yellow: 6
+
+Background Black: CTRL + 1
+Background White: CTRL + 2
+Background Red: CTRL + 3
+Background Green: CTRL + 4
+Background Blue: CTRL + 5
+Background Yellow: CTRL + 6
+
+Change Brush Size:
+If in either Eraser or Brush mode: [ decreases size
+] increases size
+
